@@ -2,7 +2,7 @@
 import tkinter as tk
 from tkinter import *
 from tkinter import messagebox
-from tkinter.tix import IMAGETEXT
+#from tkinter.tix import IMAGETEXT
 from PIL import Image
 import jsonlines
 import random
