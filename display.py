@@ -6,7 +6,7 @@ from tkinter import messagebox
 from PIL import Image
 import jsonlines
 import random
-from tkinter.tix import IMAGETEXT
+#from tkinter.tix import IMAGETEXT
 # from tkinter.tix import IMAGETEXT  # Tix is deprecated, not available in Python 3.13
 # from PIL import Image, ImageTk
 # import playsound    #need to do pip install playsound
